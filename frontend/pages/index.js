@@ -211,7 +211,11 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by &nbsp; <a href="https://github.com/aaqibsheikh/whitelist-nft-dapp" target="_blank">Aaqib Sheikh</a>
+        Made with &#10084; by &nbsp; <Link href="https://github.com/aaqibsheikh/whitelist-nft-dapp" passHref>
+          <a target="_blank" rel="noopener noreferrer">
+          Aaqib Sheikh
+          </a>
+        </Link>
       </footer>
     </div>
   );
