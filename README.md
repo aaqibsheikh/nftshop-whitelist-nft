@@ -3,5 +3,5 @@
 
 This project demonstrates a NFTShop where you can buy NFT. Presale is on. Whitelisted users can get 10 NST tokens.
 
-[Demo](https://whitelist-nft-dapp-phi.vercel.app/)
+[Demo](https://whitelist-nft-dapp-64oq7aw1h-aaqibsheikh.vercel.app/)
 
