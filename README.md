@@ -1,7 +1,7 @@
-# Whitelist dApp Project
+# NFTShop where you can buy NFT
+# NFTShop - Mint Your NFT
 
-This project demonstrates a basic Whitelist dApp project using Hardhat
+This project demonstrates a NFTShop where you can buy NFT. Presale is on. Whitelisted users can get 10 NST tokens.
 
-Try running some of the following tasks:
+[Demo](https://whitelist-nft-dapp-phi.vercel.app/)
 
-![My Image](screenshot.png)
