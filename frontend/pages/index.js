@@ -194,15 +194,15 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Whitelist Dapp</title>
-        <meta name="description" content="Whitelist-Dapp" />
+        <title>NFTShop: Mint your first NFT</title>
+        <meta name="description" content="NFTShop: Mint your NFT" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Whitelist dApp!</h1>
+          <h1 className={styles.title}>Welcome to NFTShop!</h1>
           <div className={styles.description}>
-            Its an NFT collection for developers in Mverse.
+            Its an NFT collection for those who love to buy NFTs.
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
